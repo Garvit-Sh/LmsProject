@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 :root {
-  background-color: aquamarine;
+  background-color: white;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: aquamarine;
+    --background: white;
     --foreground: black;
   }
 }
